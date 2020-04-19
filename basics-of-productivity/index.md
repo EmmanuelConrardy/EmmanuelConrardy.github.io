@@ -20,7 +20,7 @@ theme: black
 
 !SLIDE image
 
-![](assets/newton.jpg)
+![image](https://raw.githubusercontent.com/EmmanuelConrardy/EmmanuelConrardy.github.io/master/basics-of-productivity/assets/newton.JPG)
 
 - It's hard to **start** doing things
 - It's hard to **stop** doing things
@@ -31,7 +31,7 @@ Work expands so as to fill the time available for its completion
 
 !SLIDE image
 
-![](assets/parkinson.jpg)
+![image](https://raw.githubusercontent.com/EmmanuelConrardy/EmmanuelConrardy.github.io/master/basics-of-productivity/assets/parkinson.JPG)
 
 It's hard to **limit** your time
 
@@ -41,8 +41,7 @@ The student syndrome applies when humans start tasks as late as possible
 
 !SLIDE image
 
-![](assets/student.jpg)
-
+![image](https://raw.githubusercontent.com/EmmanuelConrardy/EmmanuelConrardy.github.io/master/basics-of-productivity/assets/student.JPG)
 It's hard. It should be **avoid**. 
 
 ## Consequences
@@ -53,14 +52,12 @@ It's hard. It should be **avoid**.
 
 !SLIDE image
 
-![](assets/full-picture.jpg)
-
+![image](https://raw.githubusercontent.com/EmmanuelConrardy/EmmanuelConrardy.github.io/master/basics-of-productivity/assets/full-picture.JPG)
 Does it look familiar ?
 
 !SLIDE image
 
-![](assets/full-picture-with-arrows.jpg)
-
+![image](https://raw.githubusercontent.com/EmmanuelConrardy/EmmanuelConrardy.github.io/master/basics-of-productivity/assets/full-picture-with-arrows.JPG)
 Your energy is depleting here
 
 ## The basics
@@ -71,8 +68,7 @@ Your energy is depleting here
  
 !SLIDE image
 
-![](assets/energy.jpg)
-
+![image](https://raw.githubusercontent.com/EmmanuelConrardy/EmmanuelConrardy.github.io/master/basics-of-productivity/assets/energy.JPG)
 Post-it, timer, colleagues
 
 ## Try to ...
