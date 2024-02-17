@@ -1,7 +1,7 @@
 
 title: Basics of productivity
 subtitle: Advices for you and your team
-description: Let's have a closer look on how we work
+description: Let's have a closer look on how it works
 author: Emmanuel Conrardy
 theme: black
 
@@ -16,7 +16,7 @@ theme: black
 ## Newton’s law of motion
 
 - What is in motion continues in motion
-- What is at rest remains at rest. 
+- What is at rest remains at rest.
 
 !SLIDE image
 
@@ -37,12 +37,12 @@ It's hard to **limit** your time
 
 ## Student syndrom
 
-The student syndrome applies when humans start tasks as late as possible 
+The student syndrome applies when humans start tasks as late as possible
 
 !SLIDE image
 
 ![image](https://raw.githubusercontent.com/EmmanuelConrardy/EmmanuelConrardy.github.io/master/basics-of-productivity/assets/student.JPG)
-It's hard. It should be **avoid**. 
+It's hard. It should be **avoid**.
 
 ## Consequences
 
@@ -62,16 +62,16 @@ Your energy is depleting here
 
 ## The basics
 
-  * **Initiator** aka "Start"
-  * **Limiter** aka "Limit"
-  * **Slack time** aka "Stop"
- 
+- **Initiator** aka "Start"
+- **Limiter** aka "Limit"
+- **Slack time** aka "Stop"
+
 !SLIDE image
 
 ![image](https://raw.githubusercontent.com/EmmanuelConrardy/EmmanuelConrardy.github.io/master/basics-of-productivity/assets/energy.JPG)
 Post-it, timer, colleagues
 
-## Try to ...
+## Try to
 
 1. Learn to Start, Limit, Stop
 2. Monitor your energy at the end of the day
@@ -80,4 +80,3 @@ Post-it, timer, colleagues
 ## Done
 
 Questions ?
-
