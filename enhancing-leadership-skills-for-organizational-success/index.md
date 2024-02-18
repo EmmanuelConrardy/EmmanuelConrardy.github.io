@@ -6,104 +6,103 @@ author: "Emmanuel Conrardy"
 theme: black
 ---
 
-## Part 1 : leadership overview
+## Part 1: Leadership Overview
 
-## For Organizational Success
+## Leadership Skills Help You To
 
-- How to survive and thrive in a Volatile, Uncertain, Complex, and Ambiguous world
-- The importance to understand how teams works
+- Survive and thrive in a world that is Volatile, Uncertain, Complex, and Ambiguous (VUCA).
+- Understand how teams work towards their goals.
 
 ## What Makes a Leader?
 
-- Communication: empathy, listening, honesty, ... The cornerstone of effective leadership.
-- Inspiration vs. Management: Elevating teams beyond day-to-day tasks.
+- **Trustworthiness:** We trust them for their consistent integrity and reliability.
+- **Inspiration versus Traditional Management:** Elevating teams beyond day-to-day tasks.
 
-### Inspiration example
+### Inspiration Example
 
-> I don't have all the good ideas, and I'll make a lot of mistakes if you don't help me lead us.
+> "I don't have all the good ideas, and I'll make a lot of mistakes if you don't help me lead us."
 
-## Lifelong Learning in Leadership
+## Lifelong Learning
 
-- Leadership is akin to being a perpetual student
-- read, listen, practice, get feedbacks, be mentored, repeat
+- Being a leader is akin to being a perpetual student of leadership.
+- Read, listen, practice, receive feedback, be mentored, and repeat.
 
-### Book example
+### Book Example
 
-- The Five Dysfunctions of a Team
-- A powerful model and step-by-step guide
-- Reading affect your vision of the world
+- "The Five Dysfunctions of a Team": A powerful model and step-by-step guide.
+- How reading can affect your worldview.
 
-## Part 2 : leadership skills
+## Part 2: Leadership Skills
 
 ## Developing Critical Thinking
 
-- Understand the world around you
+- Understand the world around you.
 - Steps: Identify, Analyze, Evaluate, and Implement.
 
-### Critical Thinking example
+### Critical Thinking Example
 
-- Example: Solving a team conflict about perception of low income and managerial misstep.
+- Solving a team conflict about the perception of low income and managerial missteps.
 
-### resolve conflict step 1 - Identify
+### Resolve Conflict Step 1 - Identify
 
-- Q: Understand the root cause of apparent disengagement and why it is happening.
-- A: Low income and managerial misstep is the root cause
+- **Q:** What is the root cause of the apparent disengagement and why is it happening?
+- **A:** Low income and managerial missteps are the root causes.
 
-### resolve conflict step 2 - analyse
+### Resolve Conflict Step 2 - Analyze
 
-- Q: Why is this happening?
-- A: Past financial difficulties
+- **Q:** Why is this happening?
+- **A:** Due to past financial difficulties.
 
-### resolve conflict step 2.1 - analyse
+### Resolve Conflict Step 2.1 - Analyze
 
-- Q: How does this income compare to the local market and to other team members?
-- A: Below the local market average and lower than that of recently hired team members
+- **Q:** How does this income compare to the local market and to other team members?
+- **A:** It's below the local market average and lower than that of recently hired team members.
 
-### resolve conflict step 3 - evaluate
+### Resolve Conflict Step 3 - Evaluate
 
-- Q: What would be considered a sufficient raise?
-- A: An 20% raise would be sufficient and do not overstress the company's budget.
-- Example: 40k + 20% -> 48k
+- **Q:** What would be considered a sufficient raise?
+- **A:** A 20% raise would be sufficient and would not overstress the company's budget.
+  - Example: 40k + 20% -> 48k
 
-### resolve conflict step 4 - implement
+### Resolve Conflict Step 4 - Implement
 
-- Q: Is the manager/team inclined to address this issue?
-- A: Yes, managing conflicts about income has become a draining task.
+- **Q:** Is the manager/team inclined to address this issue?
+- **A:** Yes, managing conflicts about income has become a draining task.
 
-### resolve conflict step 4.1 - implement
+### Resolve Conflict Step 4.1 - Implement
 
-- Q: What changes should be made to our income policy to prevent this situation?
-- A: Implementing a policy shift that emphasizes raises to match the average local market income is recommended.
+- **Q:** What changes should be made to our income policy to prevent this situation?
+- **A:** Implementing a policy shift that emphasizes raises to match the average local market income is recommended.
 
 ## The Power of Active Listening
 
-- Key components: Hearing, Understanding, Evaluating, Responding.
+- Key components: Hearing, Understanding, Evaluating, and Responding.
 - Active listening in leadership scenarios.
 
-### Rephrasing and genuine curiosity
+### Rephrasing and Genuine Curiosity
 
 > Randy: "Every week feels like I'm just guessing what's the priority because nothing is explicitly stated."
 
-> Evan: "So, if I understand, the lack of explicitly stated priorities leaves you guessing and unsure of what to focus on? Every single week ?"
+> Evan: "So, if I understand correctly, the lack of explicitly stated priorities leaves you guessing and unsure of what to focus on? Every single week?"
 
-## Emotional Intelligence in Leadership
+## Emotional Intelligence
 
 - Understanding and managing emotions in the workplace.
 - Practical exercise: Recognizing team members' emotions.
 
-### First response acknowledge and validate
+### Anger or frustration - example
 
-> Randy: "I can work with him anymore ! He lacks everything to do his job properly."
+> Randy: "I can't work with him anymore! He lacks everything needed to do his job properly."
 
-### Do acknowledge and validate
+### Do Acknowledge and Validate
 
-> Evan: "It's understandable to feel upset when teamwork doesn't go as expected."
+> Evan: "It's understandable to feel upset when teamwork doesn't go as expected.
 
 > Evan: "We'll approach this as a team issue, not just pointing out problems but seeking solutions."
 
-### Do not dismiss
+### Do Not Dismiss
 
-> Randy: "I can work with him anymore ! He lacks everything to do his job properly."
+> Randy: "I can't work with him anymore! He lacks everything needed to do his job properly."
 
 > Evan: "Here you go again... you're always grumpy, aren't you?"
 
@@ -113,48 +112,50 @@ theme: black
 - Theory of Constraints.
 - Eisenhower Decision Matrix
 
-### Type 1 and Type 2 decisions
+### Type 1 and Type 2 Decisions
 
 When faced with decision fatigue:
 
-- Type 1 decisions are difficult or impossible to reverse. They represent a large amount of risk. You should invest in a thorough decision making process and proceed carefully.
-- Type 2 decisions are reversible. If they don’t work out, you can always go back or quickly adjust course.
+- **Type 1 decisions** are *difficult or impossible to reverse*.
+  - They carry a significant amount of risk. A thorough decision-making process should be invested in, and proceed with caution.
+- **Type 2 decisions** are *reversible*.
+  - If they don’t work out, you can always revert or quickly adjust your course.
 
-### Type 1 and Type 2 decisions - example
+### Type 1 and Type 2 Decisions - Life Example
 
 - Type 1: "Should I marry this person?"
 - Type 2: "Should we cook rice or pasta tonight?"
 
-### Type 1 and Type 2 decisions - software engineering example
+### Type 1 and Type 2 Decisions - Software Engineering Example
 
 - Type 1: "Which technology stack should we use: Python or C++?"
 - Type 2: "Should we indent with tabs or spaces?"
 
 ### Theory of Constraints
 
-When the workflow is disrupted:
+When workflow is disrupted:
 
-> The Theory of Constraints (TOC) posits that every system has a bottleneck that limits its overall performance.
+> The Theory of Constraints (TOC) suggests that every system has a bottleneck that limits its overall performance.
 
 > Addressing areas other than the bottleneck won’t significantly improve the system's output.
 
-### Bottleneck example
+### Bottleneck Example
 
-> Randy: "What are the topics, we should work on next weeks ?"
+> Randy: "What topics should we work on in the next weeks?"
 
-> Evan: "I got this, I'll share the topics asap, I just need more time to fix this production issue first"
+> Evan: "I've got this. I'll share the topics ASAP. I just need more time to fix this production issue first."
 
-### Bottleneck example - identification
+### Bottleneck Example - Identification
 
-    Preparing the technical specification <- constraint
+    Preparing the technical specification <- bottleneck/constraint
     Sprint planning
     Coding
     Code review
     Testing
-    Deployment into the production
+    Deployment into production
     Collecting feedback and data
 
-### Bottleneck example - resolution
+### Bottleneck Example - Resolution
 
 > Randy: "I'll handle the production issue. You can focus on preparing our technical specifications."
 
@@ -162,10 +163,10 @@ When the workflow is disrupted:
 
 ### Eisenhower Decision
 
-    Do: Tasks that are urgent and important. <- primary focus
-    Plan: Tasks that are important but not urgent.  <- secondary focus
-    Delegate: Tasks that are urgent but not important.
-    Eliminate: Tasks that are neither urgent nor important. <- ignore
+    Focus primarily on tasks that are urgent and important.
+    Secondary focus on tasks that are important but not urgent.
+    Delegate tasks that are urgent but not important.
+    Ignore tasks that are neither urgent nor important.
 
 ### Eisenhower Decision Matrix
 
@@ -174,65 +175,69 @@ When the workflow is disrupted:
 | **Important**     | Do         | Plan           |
 | **Not Important** | Delegate   | Eliminate      |
 
-## Part 3 : shaping Environment and Culture
+## Part 3: Shaping Environment and Culture
 
 ## Shaping Environment and Culture
 
-- the physical space, social norms, and organizational structures around us significantly influence our behaviors, based on behaviorism principles.
+The physical space, social norms, and organizational structures significantly influence our behaviors, based on behaviorism principles.
 
 ### Adjusting Stimuli to Influence Behavior
 
-- Changes in the environment modify the stimuli people encounter, which in turn affects their reactions and behaviors.
+Changes in the environment modify the stimuli people encounter, which in turn affects their reactions and behaviors.
 
 ### Example of Adjustment
 
-- "flexible work hours"
-- Allows employees to choose their working times within certain limits, aligning work with their most productive hours and family constraints.
+Introducing "flexible work hours" allows employees to align work with their most productive hours and family constraints, enhancing satisfaction.
 
-### Example of Behavioral influence
+### Example of Behavioral Influence
 
-- Increased job satisfaction, as employees feel they have more control over their work-life balance.
-- Employees feel more energetic and focused.
+Employees experience increased job satisfaction as they gain more control over their work-life balance, leading to heightened energy and focus.
 
-### Example of culture influence
+### Example of Culture Influence
 
-- as work-life balance become the norm, they contribute to a culture of well-being, productivity, and mutual respect.
+As work-life balance becomes the norm, it contributes to a culture of well-being, productivity, and mutual respect.
 
 ### Cyclical Nature
 
-This process is not linear but cyclical. The evolving culture can, in turn, influence the environment by shaping policies, physical layouts, and social norms, which then continue to influence individual and collective behaviors.
+This process is cyclical, not linear.
+
+The evolving culture can influence the environment, shaping policies, physical layouts, and social norms, which continue to influence behaviors.
 
 ### Sustainable Change
 
-For change to be sustainable, it's crucial to recognize this cycle. By carefully designing the environment to promote desired behaviors and by nurturing these behaviors to influence culture, organizations can create a self-reinforcing cycle of positive change.
+For change to be sustainable, recognizing this cycle is crucial.
+
+Designing the environment to promote desired behaviors and nurturing these behaviors to influence culture can create a self-reinforcing cycle of positive change.
 
 ### Strategic Approach
 
-Leaders should strategically assess which environmental changes will most effectively drive the desired behaviors and, ultimately, the desired cultural shift. This might involve redesigning workspaces, modifying policies, adjusting reward systems, or shifting communication practices
+Leaders should assess which environmental changes will most effectively drive desired behaviors and the desired cultural shift.
 
-### example of types of culture to aim for an R&D
+This may involve redesigning workspaces, modifying policies, adjusting reward systems, or shifting communication practices.
 
-    Innovative Culture: Encourages continuous exploration of new technologies, methodologies, and practices. It's about creating an environment where creative thinking and novel solutions are highly valued and supported.
+### Examples of Cultures to Aim for in R&D
 
-    Learning Culture: Emphasizes the importance of continuous learning, skill development, and knowledge sharing among team members. This culture supports staying current with the latest technological advancements and industry trends.
+    Innovative Culture: Promotes creativity and new technology adoption.
 
-    Collaborative Culture: Promotes teamwork and cross-functional collaboration. Given the complexity of software development, effective communication and collaboration across different roles and expertise areas are essential for solving problems and innovating.
-
-    Agile Culture: Aligns with the principles of agile software development, focusing on flexibility, customer feedback, and iterative progress. It prioritizes adaptability to change and rapid response to evolving requirements or challenges.
-
-    Customer-centric Culture: Even in R&D, understanding and prioritizing the needs and experiences of the end-users of the technology is crucial. This involves integrating user feedback into the development process to ensure the solutions meet real-world needs.
-
-    Performance-oriented Culture: While fostering innovation and learning, maintaining a focus on delivering results and meeting project milestones is essential. This culture balances exploration with execution, ensuring that R&D efforts contribute to tangible outcomes.
-
-    Integrity and Ethical Culture: Especially important in R&D, where intellectual property, data privacy, and ethical considerations are at the forefront. Maintaining high ethical standards in research practices and respecting confidentiality are critical.
-
-    Sustainability Culture: With growing emphasis on ethical tech and sustainability, incorporating environmental and social considerations into software design and development is increasingly important.
+    Learning Culture: Emphasizes skill growth and knowledge exchange.
+    
+    Collaborative Culture: Encourages team synergy and interdisciplinary cooperation.
+    
+    Agile Culture: Focuses on adaptability and swift change management.
+    
+    Customer-centric Culture: Prioritizes fulfilling user needs via feedback.
+    
+    Performance-oriented Culture: Aims for results while fostering innovation.
+    
+    Integrity and Ethical Culture: Maintains strict ethical standards and confidentiality.
+    
+    Sustainability Culture: Embeds eco-friendly and social values in development.
 
 ## Key Takeaways
 
-- Read to reshape your vision.
-- Practice leadership skills in opportunistic settings.
-- Nurture the culture you wish to see.
+- Read, receive mentorship, and reshape your vision.
+- Practice leadership skills opportunistically.
+- Cultivate the culture you envision.
 
 ## Enhancing Leadership Skills For Organizational Success
 
