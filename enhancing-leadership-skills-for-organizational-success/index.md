@@ -8,7 +8,7 @@ theme: black
 
 ## Part 1: Leadership Overview
 
-## Leadership Skills Help You To
+## Leadership Enable You To
 
 - Survive and thrive in a world that is Volatile, Uncertain, Complex, and Ambiguous (VUCA).
 - Understand how teams work towards their goals.
@@ -77,7 +77,7 @@ theme: black
 ## The Power of Active Listening
 
 - Key components: Hearing, Understanding, Evaluating, and Responding.
-- Active listening in leadership scenarios.
+- Emphasizes non-judgmental reception and an open-minded approach.
 
 ### Rephrasing and Genuine Curiosity
 
@@ -96,7 +96,7 @@ theme: black
 
 ### Do Acknowledge and Validate
 
-> Evan: "It's understandable to feel upset when teamwork doesn't go as expected.
+> Evan: "It's understandable to feel upset when teamwork doesn't go as expected."
 
 > Evan: "We'll approach this as a team issue, not just pointing out problems but seeking solutions."
 
@@ -117,7 +117,7 @@ theme: black
 When faced with decision fatigue:
 
 - **Type 1 decisions** are *difficult or impossible to reverse*.
-  - They carry a significant amount of risk. A thorough decision-making process should be invested in, and proceed with caution.
+  - They carry a significant amount of risk.
 - **Type 2 decisions** are *reversible*.
   - If they don’t work out, you can always revert or quickly adjust your course.
 
@@ -164,7 +164,7 @@ When workflow is disrupted:
 ### Eisenhower Decision
 
     Focus primarily on tasks that are urgent and important.
-    Secondary focus on tasks that are important but not urgent.
+    Secondary focus on plan tasks that are important but not urgent.
     Delegate tasks that are urgent but not important.
     Ignore tasks that are neither urgent nor important.
 
@@ -197,47 +197,56 @@ Employees experience increased job satisfaction as they gain more control over t
 
 As work-life balance becomes the norm, it contributes to a culture of well-being, productivity, and mutual respect.
 
-### Cyclical Nature
+### Cyclical Nature {data-auto-animate="true"}
 
 This process is cyclical, not linear.
 
+### Cyclical Nature {data-auto-animate="true" style="margin-top: 50px;"}
+
 The evolving culture can influence the environment, shaping policies, physical layouts, and social norms, which continue to influence behaviors.
 
-### Sustainable Change
+### Sustainable Change {data-auto-animate="true"}
 
 For change to be sustainable, recognizing this cycle is crucial.
 
+### Sustainable Change {data-auto-animate="true" style="margin-top: 50px;"}
+
 Designing the environment to promote desired behaviors and nurturing these behaviors to influence culture can create a self-reinforcing cycle of positive change.
 
-### Strategic Approach
+### Strategic Approach {data-auto-animate="true"}
 
 Leaders should assess which environmental changes will most effectively drive desired behaviors and the desired cultural shift.
 
+### Strategic Approach {data-auto-animate="true" style="margin-top: 10px;"}
+
 This may involve redesigning workspaces, modifying policies, adjusting reward systems, or shifting communication practices.
 
-### Examples of Cultures to Aim for in R&D
+### Examples of Cultures to Aim for in R&D {data-auto-animate="true"}
 
-    Innovative Culture: Promotes creativity and new technology adoption.
+- Innovative Culture: Promotes creativity and new technology adoption.
+- Learning Culture: Emphasizes skill growth and knowledge exchange.
 
-    Learning Culture: Emphasizes skill growth and knowledge exchange.
-    
-    Collaborative Culture: Encourages team synergy and interdisciplinary cooperation.
-    
-    Agile Culture: Focuses on adaptability and swift change management.
-    
-    Customer-centric Culture: Prioritizes fulfilling user needs via feedback.
-    
-    Performance-oriented Culture: Aims for results while fostering innovation.
-    
-    Integrity and Ethical Culture: Maintains strict ethical standards and confidentiality.
-    
-    Sustainability Culture: Embeds eco-friendly and social values in development.
+### Examples of Cultures to Aim for in R&D {data-auto-animate="true" }
+
+- Collaborative Culture: Encourages team synergy and interdisciplinary cooperation.
+- Agile Culture: Focuses on adaptability and swift change management.
+
+### Examples of Cultures to Aim for in R&D {data-auto-animate="true"  }
+
+- Customer-centric Culture: Prioritizes fulfilling user needs via feedback.
+- Performance-oriented Culture: Aims for results while fostering innovation.
+
+### Examples of Cultures to Aim for in R&D {data-auto-animate="true"   }
+
+- Integrity and Ethical Culture: Maintains strict ethical standards and confidentiality.
+- Sustainability Culture: Embeds eco-friendly and social values in development.
 
 ## Key Takeaways
 
-- Read, receive mentorship, and reshape your vision.
-- Practice leadership skills opportunistically.
-- Cultivate the culture you envision.
+- Read, seek mentorship, and refine your vision.
+- Seize opportunities to practice leadership skills.
+- Foster the culture you aspire to create.
+- Build a successful organization.
 
 ## Enhancing Leadership Skills For Organizational Success
 
