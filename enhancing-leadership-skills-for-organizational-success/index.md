@@ -175,6 +175,14 @@ When workflow is disrupted:
 | **Important**     | Do         | Plan           |
 | **Not Important** | Delegate   | Eliminate      |
 
+### Eisenhower Decision Example
+
+> Randy: "Making our CI/CD work is both urgent and important."
+
+> Evan: "Yes, and we can plan our code review for tomorrow."
+
+> Randy: "We can assign the weekly management tasks to Sarah and ignore this vendor's email."
+
 ## Part 3: Shaping Environment and Culture
 
 ## Shaping Environment and Culture
