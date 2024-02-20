@@ -317,7 +317,7 @@ This may involve redesigning workspaces, modifying policies, adjusting reward sy
 - Read, seek mentorship, and refine your vision.
 - Seize opportunities to practice leadership skills.
 - Foster the culture you aspire to create.
-- Reduce activities of / make it hard to nuture toxic cultures.
+- Minimize activities that foster or make it difficult to nurture toxic cultures.
 - Build a successful organization culture.
 
 ## Enhancing Leadership Skills For Organizational Success Culture
