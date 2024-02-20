@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Leadership Skills"
-subtitle: "For Organizational Success"
+subtitle: "For Organizational Success Culture"
 description: "Exploring effective leadership practices"
 author: "Emmanuel Conrardy"
 theme: black
@@ -229,33 +229,97 @@ Leaders should assess which environmental changes will most effectively drive de
 
 This may involve redesigning workspaces, modifying policies, adjusting reward systems, or shifting communication practices.
 
-### Examples of Cultures to Aim for in R&D {data-auto-animate="true"}
+## Audit your team and company
 
-- Innovative Culture: Promotes creativity and new technology adoption.
-- Learning Culture: Emphasizes skill growth and knowledge exchange.
+- Can you list the activities and situations that foster a growth culture?
+- Can you list the activities and situations that contribute to a toxic culture?
 
-### Examples of Cultures to Aim for in R&D {data-auto-animate="true" }
+## Examples of environmental Changes and Activities to Promote Growth Cultures
 
-- Collaborative Culture: Encourages team synergy and interdisciplinary cooperation.
-- Agile Culture: Focuses on adaptability and swift change management.
+### Learning and Development Culture
 
-### Examples of Cultures to Aim for in R&D {data-auto-animate="true"  }
+- **Professional Development Programs:** Offer workshops, courses, and seminars.
+- **Mentorship Programs:** Pair less experienced employees with mentors.
 
-- Customer-centric Culture: Prioritizes fulfilling user needs via feedback.
-- Performance-oriented Culture: Aims for results while fostering innovation.
+### Collaborative and Cross-Functional Culture
 
-### Examples of Cultures to Aim for in R&D {data-auto-animate="true"   }
+- **Team-Building Retreats:** Organize retreats focused on teamwork.
+- **Cross-Departmental Projects:** Encourage collaboration across departments.
 
-- Integrity and Ethical Culture: Maintains strict ethical standards and confidentiality.
-- Sustainability Culture: Embeds eco-friendly and social values in development.
+### Communication and Transparency Culture
+
+- **Open Forums:** Schedule town hall meetings for open discussions.
+- **Transparent Reporting:** Share key indicators and objectives openly.
+
+### Autonomy and Empowerment Culture
+
+- **Self-Directed Teams:** Allow teams to set their own goals and methods.
+- **Decision-Making Autonomy:** Empower employees to make role-relevant decisions.
+
+### Performance and Excellence Culture
+
+- **Recognition Programs:** Recognize and reward outstanding performance.
+- **Continuous Feedback Loops:** Establish regular reviews and feedback sessions.
+
+### Agile and Startup Mentality Culture
+
+- **Rapid Prototyping:** Encourage the quick development of prototypes.
+- **Fail Fast Philosophy:** View failure as a learning opportunity.
+
+## Example of environmental Changes and Activities That Promote toxic Cultures
+
+### Stagnation and Complacency Culture
+
+- **Lack of Professional Development:** Neglecting continuous learning and growth opportunities.
+- **Resistance to Change:** Discouraging innovation and sticking to "the way things have always been done."
+
+### Siloed and Isolated Culture
+
+- **Limited Cross-Departmental Interaction:** Encouraging departments to work in isolation without promoting interdepartmental projects.
+- **Poor Communication Channels:** Failing to provide platforms for sharing information and insights across teams.
+
+### Opaque and Closed Communication Culture
+
+- **Withholding Information:** Keeping decision-making processes and company operations hidden from employees.
+- **Discouraging Open Dialogue:** Creating an environment where employees feel unable to express their thoughts and concerns.
+
+### Micromanagement and Control Culture
+
+- **Overbearing Supervision:** Excessive monitoring and control over employees' work processes.
+- **Limited Decision-making Autonomy:** Restricting employees' ability to make decisions about their work.
+
+### Mediocrity and Settling Culture
+
+- **Lack of Performance Standards:** Failing to set and enforce high standards for work quality.
+- **No Recognition for Excellence:** Not acknowledging or rewarding above-and-beyond performance.
+
+### Bureaucratic and Inflexible Culture
+
+- **Overemphasis on Procedures:** Prioritizing strict adherence to procedures over efficiency and common sense.
+- **Resistance to Adaptation:** Being slow to respond to necessary changes or improvements.
+
+### Ego-driven and Hierarchical Culture
+
+- **Promotion of Status over Merit:** Valuing titles and hierarchy over contribution and skill.
+- **Discouraging Team Collaboration:** Encouraging competition over collaboration among team members.
+
+### Burnout and Overwork Culture
+
+- **Normalizing Long Hours:** Expecting regular overtime without consideration for work-life balance.
+- **Glorifying Overwork:** Celebrating those who work excessively as the ideal employees.
+
+## So, What's the Result?
+
+> What are you going to do now?
 
 ## Key Takeaways
 
 - Read, seek mentorship, and refine your vision.
 - Seize opportunities to practice leadership skills.
 - Foster the culture you aspire to create.
-- Build a successful organization.
+- Reduce activities of / make it hard to nuture toxic cultures.
+- Build a successful organization culture.
 
-## Enhancing Leadership Skills For Organizational Success
+## Enhancing Leadership Skills For Organizational Success Culture
 
 - Questions & Feedback
