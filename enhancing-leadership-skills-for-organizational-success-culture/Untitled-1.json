@@ -1,5 +1,0 @@
-{Request { Token = 123456, DeviceInfo = DeviceInfo { SerialNumber = test_serial_number
-        }, Sensors = System.Linq.OrderedEnumerable`2[DicksonOneAdapter.D1Api.Dtos.UpdateDeviceSensorsDtos+Sensor,System.UInt32
-        ]
-    }
-}
