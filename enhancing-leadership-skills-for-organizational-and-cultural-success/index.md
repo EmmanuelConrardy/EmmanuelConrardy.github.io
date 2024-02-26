@@ -49,38 +49,38 @@ You should up-skills your leadership
 
 ### Critical Thinking Example
 
-- Solving a team conflict about the perception of low income and managerial missteps.
+- Solving a team conflict about the perception of low performance and disengagement.
 
 ### Resolve Conflict Step 1 - Identify
 
-- **Q:** What is the root cause of the apparent disengagement and why is it happening?
-- **A:** Low income and managerial missteps are the root causes.
+> - **Q:** What is the root cause of the apparent disengagement and why is it happening?
+> - **A:** Low income and managerial missteps are the root causes.
 
 ### Resolve Conflict Step 2 - Analyze
 
-- **Q:** Why is this happening?
-- **A:** Due to past financial difficulties.
+> - **Q:** Why is this happening?
+> - **A:** limited budget, managerial decision to focus raise on top tier employees
 
 ### Resolve Conflict Step 2.1 - Analyze
 
-- **Q:** How does this income compare to the local market and to other team members?
-- **A:** It's below the local market average and lower than that of recently hired team members.
+> - **Q:** How does this income compare to the local market and to other team members?
+> - **A:** It's below the local market average and lower than that of recently hired team members.
 
 ### Resolve Conflict Step 3 - Evaluate
 
-- **Q:** What would be considered a sufficient raise?
-- **A:** A 20% raise would be sufficient and would not overstress the company's budget.
+> - **Q:** What would be considered a sufficient raise?
+> - **A:** A 20% raise would be sufficient and would not overstress the company's budget.
   - Example: 40k + 20% -> 48k
 
 ### Resolve Conflict Step 4 - Implement
 
-- **Q:** Is the manager/team inclined to address this issue?
-- **A:** Yes, managing conflicts about income has become a draining task.
+> - **Q:** Is the manager/team inclined to address this issue?
+> - **A:** Yes, managing conflicts about income has become a draining task.
 
 ### Resolve Conflict Step 4.1 - Implement
 
-- **Q:** What changes should be made to our income policy to prevent this situation?
-- **A:** Implementing a policy shift that emphasizes raises to match the average local market income is recommended.
+> - **Q:** What changes should be made to our income policy to prevent this situation?
+> - **A:** Implementing a policy shift that emphasizes raises to match the average local market income is recommended.
 
 ## The Power of Active Listening
 
@@ -169,12 +169,17 @@ When workflow is disrupted:
 
 > Evan: "Thanks, in the next sprint, let's allocate some time to help the team become capable of taking on these kinds of tasks."
 
-### Eisenhower Decision
+### Eisenhower Decision principle
+When focus is disrupted:
 
-    Focus primarily on tasks that are urgent and important.
-    Secondary focus on plan tasks that are important but not urgent.
-    Delegate tasks that are urgent but not important.
-    Ignore tasks that are neither urgent nor important.
+A time management tool for prioritizing tasks based on their urgency and importance. It divides tasks into four categories.
+
+### Eisenhower Decision categories
+
+> - Urgent and important (Do first)
+> - Important, but not urgent (Schedule)
+> - Urgent, but not important (Delegate)
+> - Neither urgent nor important (Eliminate)
 
 ### Eisenhower Decision Matrix
 
@@ -195,10 +200,11 @@ When workflow is disrupted:
 
 ## Shaping Environment and Culture
 
+> - what significantly influence our behaviors ?
 > - The physical space 
 > - Social norms 
 > - Organizational structures 
-> - significantly influence our behaviors
+
 
 ### Adjusting Stimuli to Influence Behavior
 
@@ -210,9 +216,17 @@ When workflow is disrupted:
 > - Introducing "flexible work hours" 
 > - allows employees to align work with their most productive hours and family constraints
 
+### Example of Adjustment Conversation
+
+> Randy : I prefer working in the morning, do you mind if I come early and leave early ?
+
+> Evan : No worries, for example Sarah do the same to go to the gym before going home
+
 ### Example of Behavioral Influence
 
-Employees experience increased job satisfaction as they gain more control over their work-life balance, leading to heightened energy and focus.
+> - Employees experience increased job satisfaction 
+> - they gain more control over their work-life balance
+> - leading to heightened energy and focus.
 
 ### Example of Culture Influence
 
@@ -224,8 +238,13 @@ Employees experience increased job satisfaction as they gain more control over t
 This process is cyclical, not linear.
 
 ### Cyclical Nature {data-auto-animate="true" style="margin-top: 50px;"}
+::: incremental
 
-The evolving culture can influence the environment, shaping policies, physical layouts, and social norms, which continue to influence behaviors.
+- The evolving culture can influence the environment, 
+- shaping policies, physical layouts, and social norms, 
+- which continue to influence behaviors.
+
+:::
 
 ### Sustainable Change {data-auto-animate="true"}
 
@@ -246,7 +265,11 @@ This may involve redesigning workspaces, modifying policies, adjusting reward sy
 ## Audit your team and company
 
 - Can you list the activities and situations that foster a growth culture?
-- Can you list the activities and situations that contribute to a toxic culture?
+- Can you list the activities and situations that contribute to a fixed culture?
+
+## Disclaimer
+
+No company is perfect; you will always find situations and activities that reflect both growth and fixed cultures.
 
 ## Examples of environmental Changes and Activities to Promote Growth Cultures
 
@@ -280,7 +303,7 @@ This may involve redesigning workspaces, modifying policies, adjusting reward sy
 - **Rapid Prototyping:** Encourage the quick development of prototypes.
 - **Fail Fast Philosophy:** View failure as a learning opportunity.
 
-## Example of environmental Changes and Activities That Promote toxic Cultures
+## Example of environmental Changes and Activities That Promote fixed Cultures
 
 ### Stagnation and Complacency Culture
 
@@ -324,15 +347,16 @@ This may involve redesigning workspaces, modifying policies, adjusting reward sy
 
 ## So, What's the Result?
 
-> What are you going to do now?
+> Now, the cool thing is you can sit beside your colleague or manager 
+> and discuss improvements at the team or company level together.
 
 ## Key Takeaways
 
 - Read, seek mentorship, and refine your vision.
 - Seize opportunities to practice leadership skills.
 - Foster the culture you aspire to create.
-- Minimize activities that foster or make it difficult to nurture toxic cultures.
-- Build a successful organization culture.
+- Minimize activities that foster or make it difficult to nurture fixed cultures.
+- Build a successful organization and culture.
 
 ## Enhancing Leadership Skills For Organizational Success Culture
 
